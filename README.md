@@ -6,6 +6,8 @@ August 5th-8th, 2019 in Downtown Chicago: 2019 is the 15th anniversary !
 
 This repo provides all the materials related to my talk on [**"WebRTC Cloud Phone with Asterisk, SIP.js & Janus"**](https://www.cluecon.com/speakers-2-2/) at ClueCon 2019.
 
+<kbd>![Talk schedule](statics/talk-schedule.jpeg)</kbd>
+
 ## What is ClueCon?
 [ClueCon](https://www.cluecon.com/) is a conference for developers by developers: an annual technology conference held every summer hosted by the team behind the [FreeSWITCH](https://freeswitch.com) open-source project. Our primary focus is to gather various open source projects to discuss Voice over IP, open-source software and hardware, Telecommunications, WebRTC, and IoT. We sit at the intersection of communication and technology and we love all things technical. Open source projects represented many years are FreeSWITCH, Kamailio, Asterisk, OpenSIPS, FusionPBX and many more!
 
