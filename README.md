@@ -16,3 +16,20 @@ ClueCon started 15 years ago as a space to discuss the world of telecom and now 
 ## Talk
 
 - [Schedule](https://www.cluecon.com/event/alessandro-polidori-nethesis-srl/)
+- Slide (coming soon[...](https://www.slideshare.net/ale_polidori))
+
+## Links
+
+- DEMO WebRTC Cloud Phone: https://alepolidori.github.com/webrtc-phone
+- SIP.js: https://sipjs.com
+- Janus Gateway: https://github.com/NethServer/janus-gateway
+- Janus Gateway Google Group: https://groups.google.com/forum/#!forum/meetecho-janus
+- sipML5 Google Group: https://groups.google.com/forum/#!forum/doubango
+- NethServer VoIP PBX: http://docs.nethserver.org/en/v7/freepbx.html
+- NethCTI 3: https://www.youtube.com/watch?v=wKM-Qe3aEjo&feature=youtu.be&t=17
+- NethVoice / NethCTI: https://www.nethesis.it/nethvoice
+- Nethesis: https://www.nethesis.it
+- NethServer Linux: https://www.nethserver.org
+- NethServer Community: https://community.nethserver.org
+- NethServer developer documentation: http://docs.nethserver.org/projects/nethserver-devel/en/latest
+- WebRTC blog by Tsahi Levent-Levi: https://bloggeek.me
