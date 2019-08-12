@@ -16,7 +16,8 @@ ClueCon started 15 years ago as a space to discuss the world of telecom and now 
 ## Talk
 
 - [Schedule](https://www.cluecon.com/event/alessandro-polidori-nethesis-srl/)
-- Slide (coming soon[...](https://www.slideshare.net/ale_polidori))
+- [Presentation](https://www.slideshare.net/ale_polidori/presentation-at-cluecon-2019-chicago-il-usa)
+- [Video](http://bit.ly/2YNALZe)
 
 ## DEMO WebRTC Cloud Phone
 
