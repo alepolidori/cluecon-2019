@@ -1,4 +1,4 @@
-# [ClueCon](https://www.cluecon.com/) conference 2019 - Chicago (IL)
+# [ClueCon](https://www.cluecon.com/) conference 2019 - Chicago (IL) 🇺🇸
 
 August 5th-8th, 2019 in Downtown Chicago: 2019 is the 15th anniversary !
 
